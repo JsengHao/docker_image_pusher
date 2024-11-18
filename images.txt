@@ -1,2 +1,2 @@
 JsengHao/paperless-ngx-public
-
+paperless-ngx/paperless-ngx
